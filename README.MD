@@ -276,7 +276,7 @@ float value=12.34
 
 double value=1234.56
 
-<img src="Screenshot from 2024-06-18 23-57-07.png">
+<img src="Screenshot from 2024-06-1823-57-07.png">
 
 
 ### Iterative Statements:
