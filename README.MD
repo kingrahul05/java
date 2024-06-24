@@ -283,13 +283,13 @@ double value=1234.56
 
 The following are some important iterative statements:
 
-(a)while loop
+(a)While loop
 
-(b)do-while loop
+(b)Do-while loop
 
-(c)for loop
+(c)For loop
 
-### (a)while loop:
+### (a)While loop:
 
 In while looping structure the condition is checked first and if the
 condition is true then the loop_body is executed,this process is repeated
@@ -303,7 +303,7 @@ while(condition)
 
 <img src="Screenshot from 2024-06-19 00-04-39.png">
 
-### (b)do-while loop:
+### (b)Do-while loop:
 
 In do-while looping structure the loop-body is executed first
 and then the condition is checked,if the condition is true then it
@@ -320,9 +320,9 @@ do
 }
 while(condition);
 
-### (c)for loop:
+### (c)For loop:
 
-"for" loop is more simple in representation when compared to
+"For" loop is more simple in representation when compared to
 while and do-while loops,because Initialization,Condition and
 
 Incre/Decre declared in the same line.
@@ -372,7 +372,7 @@ NonStatic - means memory in Object
 
 based on "static" keyword the variables in Java are categorized into
 
-two types:
+Two types:
 
 (1)Static variables
 
@@ -1201,9 +1201,11 @@ but variables in Abstract Classes are User Choice.
 Interfaces cannot hold "Blocks and Constructors",but Abstract
 Classes can hold "Blocks and Constructors".
 
-Abstract  keyword is not mandatory to declare abstract methods
+"Abstract" keyword is not mandatory to declare abstract methods
 in Interfaces,but "abstract" keyword is manditory to declare
 abstract methods in Abstract Classes.
+
+
 =============================================================================
 
 ### 1. Encapsulation
