@@ -124,7 +124,7 @@ JRE means combination of JVM and JavaLib
 
 JVM is an internal part of JRE
 
-<img src="/home/rahul/Desktop/DOCUMENTATION/Screenshot from 2024-06-18 12-50-15.png">
+
 
 ===========================================================================
 
@@ -276,7 +276,7 @@ float value=12.34
 
 double value=1234.56
 
-<img src="Screenshot from 2024-06-1823-57-07.png">
+
 
 
 ### Iterative Statements:
@@ -665,7 +665,7 @@ ClassFiles:
 
 DemoBlock1.class
 
-<img src="Screenshot from 2024-06-19 10-49-46.png">
+
 
 Note:
 
@@ -924,7 +924,6 @@ The value y:21
 
 Execution flow of DemoCon1.java(0-parameter Constructor)
 
-<img src="/home/rahul/Desktop/DOCUMENTATION/Screenshot from 2024-06-19 11-16-20.png">
 
 ================================================================================================
 
@@ -1107,7 +1106,7 @@ of AbstractClasses.
 
 Diagram:
 
-<img src="/home/rahul/Desktop/DOCUMENTATION/Screenshot from 2024-06-19 16-21-36.png">
+
 
 Ex:
 
@@ -1177,7 +1176,7 @@ The value y:12
 
 Comparision Diagram:
 
-<img src="/home/rahul/Desktop/DOCUMENTATION/Screenshot from 2024-06-19 16-23-59.png">
+
 
 ### What is the diff b/w
 
